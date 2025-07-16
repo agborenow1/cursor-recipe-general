@@ -1,1 +1,1 @@
-# ms-recipe-general
+# cursor-recipe-general
